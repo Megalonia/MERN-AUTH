@@ -3,10 +3,13 @@
 node_modules/
 /.pnp
 .pnp.js
-/client
-client/
 # testing
 /coverage
+client/public/
+client/package-lock.json
+client/package.json
+client/README.md
+
 
  # production
 /build
